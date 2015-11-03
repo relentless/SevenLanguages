@@ -1,0 +1,5 @@
+this is a test file
+that contains some text to test
+not every line
+says the word
+test
